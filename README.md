@@ -1,6 +1,5 @@
 # Expense Tracker – Full Stack MERN Application
 
-A complete expense tracking system with authentication, budget alerts, filters, and a beautiful responsive dashboard.
 
 ---
 
@@ -24,7 +23,7 @@ A complete expense tracking system with authentication, budget alerts, filters, 
 
 ### Screenshots
 
-| Login & Signup                  | Dashboard (Normal)                 |
+| Login & Signup                  | Dashboard                          |
 |----------------------------------|-------------------------------------|
 | ![Signup](./screenshots/01-signup.png) | ![Dashboard](./screenshots/07-dashboard.png) |
 
