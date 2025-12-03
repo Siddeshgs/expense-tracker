@@ -38,7 +38,7 @@ A complete expense tracking system with authentication, budget alerts, filters, 
 
 ---
 
-### How to Run Locally
+### Run Locally
 
 ```bash
 # Backend
@@ -46,7 +46,7 @@ cd backend
 npm install
 npm run dev
 
-# Frontend (in another terminal)
+# Frontend 
 cd frontend
 npm install
 npm run dev
