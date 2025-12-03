@@ -1,13 +1,12 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import axios from 'axios';
-
 const AuthContext = createContext();
 
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
 
-  axios.defaults.baseURL = 'http://localhost:5000';
+  axios.defaults.baseURL = 'https://expense-tracker-api.onrender.com';
   axios.defaults.withCredentials = true;
 
   useEffect(() => {
