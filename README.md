@@ -30,7 +30,7 @@ A complete expense tracking system with authentication, budget alerts, filters, 
 
 | Budget Exceeded Warning          | Add / Edit Expense                 |
 |----------------------------------|-------------------------------------|
-| ![Exceeded](./screenshots/09-dashboard-exceeded.png) | ![Add](./screenshots/04-add-expense.png) |
+| ![Exceeded](screenshots/09-dashboard-exceeded-budget.png) | ![Add](./screenshots/04-add-expense.png) |
 
 | Expense List + Filters           | Budget Page                        |
 |----------------------------------|-------------------------------------|
